@@ -10,36 +10,38 @@
 - 编程语言相关插件
 
 ## 移动
+
 - 0^$ hjkl fFtT; webWEB %
 - HML zz (){} gg G /?n \*n
 - ctrl+o, ctrl+i
 - :number
 
 - vim-easymotion
-	- ss
+  - ss
 - fzf.vim
-	- [leader]f
-	- ctrl+p
-	- [leader]rg
-	- [leader]b
-	- [leader]l
-	- [leader]h
+  - [leader]f
+  - ctrl+p
+  - [leader]rg
+  - [leader]b
+  - [leader]l
+  - [leader]h
 - coc.vim
-	- gd
+  - gd
 - vim-bookmarks
-	- [leader]mi [leader]mm [leader]ma [leader]mj [leader]mk [leader]mc
+  - [leader]mi [leader]mm [leader]ma [leader]mj [leader]mk [leader]mc
 - TaskList.vim
-	- [leader]td
+  - [leader]td
 - tagbar
-	- [leader]tt
+  - [leader]tt
 - FastFold
-	- [space], zA, zR
+  - [space], zA, zR
 
 ## 编辑
+
 - iIaAoOxXrR
 - cdpyvCDPYV
 - ctrl+h, ctrl+w, ctrl+u
-- J, ==,  `>>, <<, :center, :left, :right`
+- J, ==, `>>, <<, :center, :left, :right`
 - ~, gu, gU
 - u, ctrl+r
 - ctrl+v IA
@@ -50,31 +52,34 @@
 
 - auto-pairs
 - vim-surround
-	- cs ds ys vs
+  - cs ds ys vs
 - vim-repeat
 - ultisnips
 - vim-snippets
 - coc.nvim
 - ale
 - vim-commentary
-	- gcc gc
+  - gcc gc
 - vim-multiple-cursors
-	- ctrl+n ctrl+p ctrl+x
+  - ctrl+n ctrl+p ctrl+x
 
 ## 命令行
+
 - vim-floaterm
-	- [leader]tf
-	- Fn+F12
+  - [leader]tf
+  - Fn+F12
 
 ## 文件管理
+
 - vim-nerdtree
-	- [lead]nf
-	- [lead]nt
-	- ma mm ? q
+  - [lead]nf
+  - [lead]nt
+  - ma mm ? q
 - vim-signify
-	- [leader]st [leader]sd
+  - [leader]st [leader]sd
 
 ## 主题插件
+
 - vim-airline
 - vim-airline-themes
 - indentLine
@@ -86,18 +91,18 @@
 - vim-hybrid
 - onedark.vim
 - vim-interestingwords
-	- [leader]k
-	- [leader]K
-
+  - [leader]k
+  - [leader]K
 
 ## 编程语言
+
 - dash
-	- [leader]ds
+  - [leader]ds
 - python-mode
-	- [leader]r
+  - [leader]r
 - rust.vim
 - webapi-vim
 - vim-cargo
 - vim-racer
 - mathjax-support-for-mkdp
-	- :MarkdownPreview
+  - :MarkdownPreview
